@@ -3,10 +3,25 @@
 ![](Docs/Images/FlipperZeroPinout.png)
 
 
+
+#Tingel tangel
+https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher
+
+
+
+
+
+
+
+
+
 #TODO
-* Map til pin connection
-* Bedre pinout til esp32 
+* Map til pin connection 
 * Til links https://www.electronicshub.org/esp32-pinout/
+* Rouge master / unleashed firmware til flipper som gør brug af maruader nemt via flipper gui
+
+
+
 
 #Marauder Setup
 
@@ -32,7 +47,11 @@ Next
 
 **If you use the arduino IDE(https://www.arduino.cc/en/software) , these are the steps to flash device(Note that there are different steps for v1 and v2 of the IDE, but this will cover the steps for Arduino IDE V2.0)**
 
-**If you use the tools from (https://github.com/martinloren/HScope) , you **
+
+
+**If you use the tools from (https://github.com/martinloren/HScope) **
+
+![](Docs/Images/FlashTool.png)
 
 **Links used for the project:**
 
@@ -41,3 +60,7 @@ Next
 * Datasheet for the ESP-32-Wroom-32(https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)
 * Info for ESP-32-wroom-32(https://electropeak.com/learn/full-guide-to-esp32-pinout-reference-what-gpio-pins-should-we-use/)
 * Documentation for Flipper GPIO & modules (https://docs.flipperzero.one/gpio-and-modules)
+
+
+
+#RougeMaster Setup for Flipper Zero
