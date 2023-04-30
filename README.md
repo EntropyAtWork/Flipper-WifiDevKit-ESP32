@@ -7,7 +7,7 @@
 #Tingel tangel
 https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher
 
-
+https://docs.flipperzero.one/development/hardware/wifi-debugger-module/first-start
 
 
 
@@ -31,12 +31,12 @@ Firstly install this driver so that the module will be recognized by the pc(http
 
 * Then go to  https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware , where you should get the Bootloader, Partitions and Boot App for the Flipper zero wifi Dev Board.
 
-|                |  |
-|----------------|--|
-|                |  |  
-|                |  |
-|                |  |
-
+|                | Flipper Zero WiFi Dev Board |
+|----------------|-----------------------------|
+| Bootloader     |  0X1000|  
+| Partitions     |  0X8000|
+| Boot App       |  0XE000|
+| Firmware       | 0X10000| 
 Next 
 * Next your gonna need to flash these to the ESP-32, this is done through this site(https://esp.huhn.me/) , with the Arduino IDE(https://www.arduino.cc/en/software) or with the program from this repository(https://github.com/martinloren/HScope) .
 
