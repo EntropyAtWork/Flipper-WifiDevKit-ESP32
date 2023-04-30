@@ -8,7 +8,17 @@
 * Bedre pinout til esp32 
 * Til links https://www.electronicshub.org/esp32-pinout/
 
+#Marauder Setup
 
+* From https://github.com/justcallmekoko/ESP32Marauder/releases/ , download the latest version of maruader(esp32_maruader_flipper_sd_seriel).
+
+* Go to  https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware , where you should get the Bootloader, Partitions and Boot App for the Flipper zero wifi Dev Board.
+
+* Next your gonna need to flash these to the ESP-32, this is done through this site(https://esp.huhn.me/) , with the Arduino IDE(https://www.arduino.cc/en/software) or with the program from this site(https://www.martinloren.com/how-to/fashing-esp32/).
+
+**If you use the web tool(https://esp.huhn.me/) , these are the steps to flash the device** 
+
+**If you use the arduino IDE(https://www.arduino.cc/en/software) , these are the steps to flash device**
 
 **Links used for the project:**
 
