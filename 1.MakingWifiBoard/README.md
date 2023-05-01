@@ -10,13 +10,13 @@ This module was made with the NodeMcu ESP32-Wroom-32 dev Lua 38Pin development k
 #Pin connections 
 | ESP32-Wroom-32 | Flipper Zero|
 |----------------|-----------------------------|
-| 3V3            | 9/3V3|  
-| G0/Touch_1     | 10/SWC|
-| GND            | 11/GND|
-| G2/Touch_2     | 12/SIO|
-| RXD            | 13/TX |
-| TXD            | 14/RX |
-| G25/DAC_1      | 15/C1 |
-| G26/DAC_2      | 16/C0 |
+| 3V3            | Pin 9/3V3|  
+| GPIO 0/Touch_1     | Pin 10/SWC|
+| GND            | Pin 11/GND|
+| GPIO 2/Touch_2     | Pin 12/SIO|
+| RXD            | Pin 13/TX |
+| TXD            | Pin 14/RX |
+| GPIO 25/DAC_1      | Pin 15/C1 |
+| GPIO 26/DAC_2      | Pin 16/C0 |
  
 **
