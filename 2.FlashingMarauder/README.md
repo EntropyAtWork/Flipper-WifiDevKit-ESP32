@@ -27,6 +27,18 @@ Next
 
 
 
-**If you use the tools from (https://github.com/martinloren/HScope) , you should set it up as follows, note that "COM: COM9", isnt neccesarily uniform and yours might say "COM3" or "COM4", etc.**  
+**If you use the tools from (https://github.com/martinloren/HScope) , you should set it up as follows, note that "COM: COM9", isnt neccesarily uniform and yours might say "COM3" or "COM4", etc. @TODO husk at skrive vedr baud rate**  
 
 ![](/4.Docs/Images/FlashTool.png)
+
+
+
+
+
+Ting og sager 
+
+justcallmekoko - update firmware link - https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware
+justcallmekoko - getting started link - https://github.com/justcallmekoko/ESP32Marauder/wiki/getting-started
+justcallmekoko - front page of github link -           https://github.com/justcallmekoko/ESP32Marauder
+UberguidoZ - easy marauder flash link - https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher
+
