@@ -27,6 +27,6 @@ Next
 
 
 
-**If you use the tools from (https://github.com/martinloren/HScope) **
+# If you use the tools from (https://github.com/martinloren/HScope) 
 
-![](4.Docs/Images/FlashTool.png)
+![](/4.Docs/Images/FlashTool.png)
