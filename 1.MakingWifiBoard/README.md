@@ -18,5 +18,6 @@ This module was made with the NodeMcu ESP32-Wroom-32 dev Lua 38Pin development k
 | TXD             | Pin 14 (RX) |
 | GPIO 25  (DAC_1)| Pin 15 (C1) |
 | GPIO 26  (DAC_2)| Pin 16 (C0) |
-|-----------------|-------------| 
+
+ 
 **
