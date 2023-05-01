@@ -1,7 +1,6 @@
 ## Flipper-WifiDevKit-ESP32 overview 
 
-![](4.Docs/Images/doc-esp32-wroom-pinout.png.webp)
-![](4.Docs/Images/FlipperZeroPinout.png)
+
 
 
 
