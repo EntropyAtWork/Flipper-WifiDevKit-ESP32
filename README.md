@@ -1,6 +1,5 @@
 ## Flipper-WifiDevKit-ESP32 overview 
 
-![](/4.Docs/Images/ModuleBack.png)
 
 
 

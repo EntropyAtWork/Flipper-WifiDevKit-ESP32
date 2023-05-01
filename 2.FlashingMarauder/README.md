@@ -8,10 +8,12 @@ Firstly install this driver so that the module will be recognized by the pc(http
 
 |                | Flipper Zero WiFi Dev Board |
 |----------------|-----------------------------|
-| Bootloader     |  0X1000|  
-| Partitions     |  0X8000|
-| Boot App       |  0XE000|
-| Firmware       | 0X10000| 
+| Bootloader     |  0X1000                     |  
+| Partitions     |  0X8000                     |
+| Boot App       |  0XE000                     |
+| Firmware       | 0X10000                     | 
+
+
 Next 
 * Next your gonna need to flash these to the ESP-32, this is done through this site(https://esp.huhn.me/) , with the Arduino IDE(https://www.arduino.cc/en/software) or with the program from this repository(https://github.com/martinloren/HScope) .
 
