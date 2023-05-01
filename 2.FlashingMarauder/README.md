@@ -1,4 +1,4 @@
-#Marauder Setup
+# Marauder Setup
 
 Firstly install this driver so that the module will be recognized by the pc(https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 
@@ -27,6 +27,6 @@ Next
 
 
 
-## If you use the tools from (https://github.com/martinloren/HScope) , you should set it up as follows, note that "COM: COM9", isnt neccesarily uniform and yours might say "COM3" or "COM4", etc.  
+** If you use the tools from (https://github.com/martinloren/HScope) , you should set it up as follows, note that "COM: COM9", isnt neccesarily uniform and yours might say "COM3" or "COM4", etc. **  
 
 ![](/4.Docs/Images/FlashTool.png)
