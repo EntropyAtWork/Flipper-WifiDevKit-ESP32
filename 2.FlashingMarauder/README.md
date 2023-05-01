@@ -4,7 +4,8 @@ Firstly install this driver so that the module will be recognized by the pc(http
 
 * From https://github.com/justcallmekoko/ESP32Marauder/releases/ , download the latest version of maruader(esp32_maruader_flipper_sd_seriel).
 
-* Then go to  https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware , where you should get the Bootloader, Partitions and Boot App for the Flipper zero wifi Dev Board.
+* From  https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware , your gonna want to get the Bootloader, Partitions and Boot App for the Flipper zero wifi Dev Board.
+It should be looking something like this:
 
 |                | Flipper Zero WiFi Dev Board |
 |----------------|-----------------------------|
