@@ -27,6 +27,6 @@ Next
 
 
 
-** If you use the tools from (https://github.com/martinloren/HScope) , you should set it up as follows, note that "COM: COM9", isnt neccesarily uniform and yours might say "COM3" or "COM4", etc. **  
+**If you use the tools from (https://github.com/martinloren/HScope) , you should set it up as follows, note that "COM: COM9", isnt neccesarily uniform and yours might say "COM3" or "COM4", etc.**  
 
 ![](/4.Docs/Images/FlashTool.png)
