@@ -3,7 +3,7 @@
 
 This WifiDev kit was made with the NodeMcu ESP32-Wroom-32 dev Lua 38Pin development kit, mostly because that was the one that was available in my region, but most ESP32 modules should be fine.
 
-#Pin connections 
+# Pin connections 
 | ESP32-Wroom-32  | Flipper Zero|
 |-----------------|-------------|
 | 3V3             | Pin 9 (3V3) |  
@@ -19,14 +19,14 @@ Following the table above i soldered the Pins from the ESP-32 module to the acco
 Note that i added a second set of connection pins, to have it sit more stable on the Flipper Zero.
 
 
-#This is what my board looked like after soldering.
+# This is what my board looked like after soldering.
 ![](/4.Docs/Images/ModuleFrontView.jpg)
 **I chose to hot glue the back to prevent any wires from touching as it got a little packed.**
 ![](/4.Docs/Images/ModuleBackView.jpg)
 
 
 
-##Reference pics of Pinout from the Flipper Zero website and one for my ESP32-Wroom-32 dev board.
+## Reference pics of Pinout from the Flipper Zero website and one for my ESP32-Wroom-32 dev board.
 
 ![](/4.Docs/Images/FlipperZeroPinout.png)
 ![](/4.Docs/Images/doc-esp32-wroom-pinout.png.webp)
